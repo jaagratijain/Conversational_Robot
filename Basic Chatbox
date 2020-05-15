@@ -9,17 +9,18 @@
         <li> Hello , How can I help you? </li>
         <li> Hi, Nice to meet you! </li>
         <li> Hi, How are doing?</li>
+        <li> Go on! </li>
            </template>
 </category>
 <category>
     <pattern>
-        some songs 
+        wanna hear some songs 
     </pattern>
     <template>
         Which song do you prefer?
     </template>
     <pattern> I prefer * </pattern>
-    <template> The song <star/> will be played soon. </template>
+    <template> The song <star/> will be played soon. click on the link: https://www.youtube.com/?gl=IN&tab=r1 </template>
 </category>
 <category>
     <pattern> I AM GOOD </pattern>
